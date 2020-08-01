@@ -1,0 +1,26 @@
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    padding-top: 30px;
+}
+.nav-item{
+    display: table-cell;
+    float: right;
+}
+.nav-title{
+    padding-left: 100px;
+    float: left;
+}
+.nav-link{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+}
+.nav-right{
+    text-align: right;
+}
